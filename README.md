@@ -17,11 +17,9 @@ For me, balancing a game means that any of the game elements are ineffective or 
 
 The easy way to answer this question is saying that it depends on of the type of strategic gamer that we are asking. RTS fans have largely split off and gravitated towards games that tickled their particular itches more. For real-time battles, you've got Total War. For supply chain management, you've got Factorio. For base-building, you've got Rimworld. For bigger-picture campaigns you've got Paradox's offerings; just as examples.
 
-Gamers will expect of sure that you can craft, refine and execute a strategy, they want to be creative and piece the tools that we give to them together to make powerful strategies, like unit compositions, timing attacks or build orders.It'ss not the amount of tools that we give to them is the amount of possiblescombinationss that can be done.
+Gamers will expect of sure that you can craft, refine and execute a strategy, they want to be creative and piece the tools that we give to them together to make powerful strategies, like unit compositions, timing attacks or build orders.It'ss not the amount of tools that we give to them is the amount of possibles combinations that can be done.
 
 
-
-But let's do a list of some of the most "fun generators" of RTS games:
 
 ![](https://raw.githubusercontent.com/GuillemSanchez/RTS_balancing_Research/master/Docs/Images/Expectations.jpg)
 
