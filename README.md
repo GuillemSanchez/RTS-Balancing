@@ -174,10 +174,6 @@ And we get the same if we use the other variables.
 #### P = 1/3
 #### S = 1/3
 
-This will so important in the last point of this wiki, if you wanna go direct press here. But first let's talk about some points that are also important if you wanna balance well your game.
-Before going to a new point I want to talk about weakness support.
-
-
 ## Weakness Support
 
 The method that we were exploring is when you design your units to be strong against a specific type of enemy unit (or type of units), and weak against another. Weakness Support, is when you make sure that all units have a certain weakness. The difference to rock-paper-scissors is that the weakness is based on a stat of the unit, and not on the stat of an enemy unit. For example, the weakness with infantry in the R/P/S is that it's vulnerable to archers. In Weakness support scenario the infantry's weakness would be slow movement.
