@@ -270,7 +270,7 @@ From the results of the probability calculation, it can be taken that our theore
 
 If you download the excel you can make the same with your units, if you wanna add more units apart from the three i recommend to go to this [link](https://www.gamedev.net/forums/topic/685693-rts-unit-balance/?tab=comments#comment-5329035), I based all this section in how this works, the only problem is that the spreadsheet doesn't give the percents at the end.
 
-[Link](https://docs.google.com/spreadsheets/d/11KlD25wa39eWmQ4XRZHfJR8TETwlNg_dxfPCvLG8vaY/edit?usp=sharing) to some exercises.
+[Link](https://docs.google.com/spreadsheets/d/11KlD25wa39eWmQ4XRZHfJR8TETwlNg_dxfPCvLG8vaY/edit?usp=sharing) to do some exercises.
 
 
 ## Maths in game economy
